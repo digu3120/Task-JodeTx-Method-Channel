@@ -23,10 +23,12 @@ Jodetx/
 Download Project from GitHub Repo :
 
 git clone https://github.com/digu3120/Task-JodeTx-Method-Channel.git
-cd flutter_aar_module
-flutter build aar
 
-flutter_aar_module/build/host/outputs/repo/
+- cd flutter_aar_module
+
+- flutter build aar
+
+-----flutter_aar_module/build/host/outputs/repo/
 
 
 🔹 Step 2: Prepare Host App to Consume AAR
