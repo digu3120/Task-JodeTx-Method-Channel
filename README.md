@@ -1,14 +1,5 @@
-Steps To Run Project
+Steps To Run the Project
 
-📂 Project Structure
-
-Jodetx/
-├── flutter_aar_module/        <-- Flutter module to build as AAR
-│   ├── lib/
-│   └── android/
-├── host_flutter_app/          <-- Host Flutter app that integrates the AAR
-│   ├── lib/
-│   └── android/
 
 🛠️ Prerequisites
 •	Flutter (3.x or higher)
